@@ -7,9 +7,7 @@
     <artifactId>nim</artifactId>
     <version>1.0</version>
   </parent>
-  <groupId>com.poweruniverse</groupId>
   <artifactId>nim-auth</artifactId>
-  <version>1.0</version>
   <name>nim-auth</name>
   <url>http://maven.apache.org</url>
   <properties>
